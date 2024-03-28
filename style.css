@@ -10,7 +10,7 @@ body {
     justify-content: center;
     background: linear-gradient(#767385, #403541);
     color:rgb(246, 216, 255);
-    text-shadow: 5px 5px 0 rgb(62, 47, 65);
+    text-shadow: 0.5vw 0.5vw 0 rgb(62, 47, 65);
 }
 
 #container {
